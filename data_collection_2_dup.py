@@ -1,4 +1,4 @@
-import requests, datetime, os, time, pandas as pd
+import requests, os, datetime, time, pandas as pd
 
 BASE_URL = "https://api.nsf.gov/services/v1/awards.json"
 HEADERS = {"User-Agent": "nsf-fetcher/1.0 (+contact@example.com)"}  # be nice
@@ -9,8 +9,7 @@ ORG_CANDIDATES = [
     "Spectrum Health",
     "Beaumont Health"
 ]
-
-YEARS_BACK = 10  # widen the window for legacy names
+YEARS_BACK = 1  # widen the window for legacy names
 
 # --- Date window ---
 today = datetime.date.today()
