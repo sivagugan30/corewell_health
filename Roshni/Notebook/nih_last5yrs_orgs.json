@@ -1,0 +1,226 @@
+{
+  "Corewell Health": [
+    {
+      "appl_id": 11337409,
+      "project_num": "3UG1CA189860-11S1",
+      "organization": {
+        "org_name": "COREWELL HEALTH",
+        "city": null,
+        "country": null,
+        "org_city": "Grand Rapids",
+        "org_country": "UNITED STATES",
+        "org_state": "MI",
+        "org_state_name": null,
+        "dept_type": null,
+        "fips_country_code": null,
+        "org_duns": [
+          "047593173"
+        ],
+        "org_ueis": [
+          "LDABZVFUKNS3"
+        ],
+        "primary_duns": "047593173",
+        "primary_uei": "LDABZVFUKNS3",
+        "org_fips": "US",
+        "org_ipf_code": "4078901",
+        "org_zipcode": "49503",
+        "external_org_id": 4078901
+      },
+      "award_amount": 2724475,
+      "principal_investigators": [
+        {
+          "profile_id": 7038930,
+          "first_name": "KATHLEEN",
+          "middle_name": "YOST",
+          "last_name": "BUTLER",
+          "is_contact_pi": true,
+          "full_name": "KATHLEEN YOST BUTLER",
+          "title": ""
+        }
+      ],
+      "project_start_date": "2014-08-08T00:00:00",
+      "project_end_date": "2026-07-31T00:00:00",
+      "award_notice_date": "2025-08-11T00:00:00",
+      "abstract_text": "CRCWM Project Summary/Abstract\nThe Cancer Research Consortium of West Michigan (CRCWM) is an NCI Community Oncology Research\nProgram (NCORP) comprised of eleven hospitals and health systems and a medical school member. CRCWM\ncovers the west half of Michigan and cares for almost 16,000 newly diagnosed cancer patients and their families\nper year. Formed from two experienced Community Clinical Oncology Programs (CCOPs) in 2014, CRCWM has\na 50-year history of bringing cancer clinical trials and education to the community, continues to be a major\naccruer to National Cancer Institute (NCI) studies, and is acknowledged by the NCORP division as a high-\nperformance program.\nWith over 140 oncology physician investigators, 75 oncology nurse practitioners/ physician assistants, and a\nwell-established research operations team of 40 research nurses and coordinators, CRCWM has the ability to\nenroll patients with cancer related diagnoses across the continuum and to address NCI goals of expanding\nparticipation of underrepresented individuals in clinical trials. This application reiterates our commitment to high-\nquality research and ongoing alignment with the NCI Cancer Plan and initiatives.\nStrategic goals to meet this mission and vision include:\n1. To maximize accrual of patients to cancer clinical trials sponsored by the NCI including priority studies for\ntreatment, cancer control/prevention/screening, molecular/precision medicine, and imaging.\n2. To be strong contributors to Cancer Care Delivery Research (CCDR).\n3. To maximize the sharing of NCI scientific findings into clinical care through education and engagement of\nclinical partners and health systems.\n4. To contribute to better understanding of health care gaps experienced by individuals who may be\nunderrepresented (e.g., rural, adolescent/young adult, and elderly) within our communities.\n5. To optimize our contribution to the national scientific research agenda by expanding our leadership and\ncommittee participation in the National Clinical Trials Network (NCTN)/NCORP research bases and the\nmentoring of young investigators.\nCRCWM is well-positioned to continue forward this next year with the scope of work demonstrated consistently\nthroughout this grant cycle and by our long history of experience and success.",
+      "project_title": "Cancer Research Consortium of West Michigan (CRCWM)"
+    },
+    {
+      "appl_id": 10892231,
+      "project_num": "5UG1CA189860-11",
+      "organization": {
+        "org_name": "COREWELL HEALTH",
+        "city": null,
+        "country": null,
+        "org_city": "Grand Rapids",
+        "org_country": "UNITED STATES",
+        "org_state": "MI",
+        "org_state_name": null,
+        "dept_type": null,
+        "fips_country_code": null,
+        "org_duns": [
+          "047593173"
+        ],
+        "org_ueis": [
+          "LDABZVFUKNS3"
+        ],
+        "primary_duns": "047593173",
+        "primary_uei": "LDABZVFUKNS3",
+        "org_fips": "US",
+        "org_ipf_code": "4078901",
+        "org_zipcode": "49503",
+        "external_org_id": 4078901
+      },
+      "award_amount": 2153395,
+      "principal_investigators": [
+        {
+          "profile_id": 7038930,
+          "first_name": "KATHLEEN",
+          "middle_name": "YOST",
+          "last_name": "BUTLER",
+          "is_contact_pi": true,
+          "full_name": "KATHLEEN YOST BUTLER",
+          "title": ""
+        }
+      ],
+      "project_start_date": "2014-08-08T00:00:00",
+      "project_end_date": "2026-07-31T00:00:00",
+      "award_notice_date": "2024-07-29T00:00:00",
+      "abstract_text": "The Cancer Research Consortium of West Michigan (CRCWM) is an NCI Community Oncology Research Program (NCORP) comprised of nine major health systems, a renowned basic science institute, and a medical school. CRCWM covers the west half of Michigan and cares for almost 14,000 newly diagnosed cancer patients and their families per year. Formed from two experienced Community Clinical Oncology Programs (CCOPs) in 2014, CRCWM has a 40+ year history of bringing clinical trials to the community and is a major accruer to NCI studies. With over 100 oncology physician investigators and a well-established administrative staff, CRCWM has the ability to enroll patients with cancer diagnoses across the continuum and to address NCI goals of expanding participation of represented populations in clinical trials. This application reiterates our commitment to high-quality research and ongoing alignment with NCI initiatives.\nWe are well-positioned to achieve our specific aims for the next NCORP grant cycle which are:\nTo maximize accrual of patients to cancer clinical trials sponsored by the National Cancer Institute including priority studies for cancer control/prevention, molecular/precision medicine, and imaging.\nTo be strong contributors to Cancer Care Delivery Research (CCDR).\nTo maximize the sharing of NCI scientific findings into clinical care through education and engagement of clinical partners and health systems.\nTo optimize our contribution to the national scientific research agenda by expanding our leadership and committee participation in the National Clinical Trials Network (NCTN)/NCORP research bases and the mentoring of young investigators.",
+      "project_title": "Cancer Research Consortium of West Michigan (CRCWM)"
+    },
+    {
+      "appl_id": 10675484,
+      "project_num": "5UG1CA189860-10",
+      "organization": {
+        "org_name": "COREWELL HEALTH",
+        "city": null,
+        "country": null,
+        "org_city": "Grand Rapids",
+        "org_country": "UNITED STATES",
+        "org_state": "MI",
+        "org_state_name": null,
+        "dept_type": null,
+        "fips_country_code": null,
+        "org_duns": [
+          "047593173"
+        ],
+        "org_ueis": [
+          "LDABZVFUKNS3"
+        ],
+        "primary_duns": "047593173",
+        "primary_uei": "LDABZVFUKNS3",
+        "org_fips": "US",
+        "org_ipf_code": "4078901",
+        "org_zipcode": "49503",
+        "external_org_id": 4078901
+      },
+      "award_amount": 2113756,
+      "principal_investigators": [
+        {
+          "profile_id": 7038930,
+          "first_name": "KATHLEEN",
+          "middle_name": "YOST",
+          "last_name": "BUTLER",
+          "is_contact_pi": true,
+          "full_name": "KATHLEEN YOST BUTLER",
+          "title": ""
+        }
+      ],
+      "project_start_date": "2014-08-08T00:00:00",
+      "project_end_date": "2025-07-31T00:00:00",
+      "award_notice_date": "2023-07-20T00:00:00",
+      "abstract_text": "PROJECT SUMMARY\nThe Cancer Research Consortium of West Michigan (CRCWM) is an NCI Community Oncology\nResearch Program (NCORP) comprised of nine major health systems, a renowned basic\nscience institute, and a medical school. CRCWM covers the west half of Michigan and cares for\nalmost 14,000 newly diagnosed cancer patients and their families per year. Formed from two\nexperienced Community Clinical Oncology Programs (CCOPs) in 2014, CRCWM has a 40+\nyear history of bringing clinical trials to the community and is a major accruer to NCI studies.\nWith over 100 oncology physician investigators and a well-established administrative staff,\nCRCWM has the ability to enroll patients with cancer diagnoses across the continuum and to\naddress NCI goals of expanding participation of racial/ethnic minorities and underserved in\nclinical trials. This application reiterates our commitment to high-quality research and ongoing\nalignment with NCI initiatives.\nWe are well-positioned to achieve our specific aims for the next NCORP grant cycle which are:\n1. To maximize accrual of patients to cancer clinical trials sponsored by the National\n Cancer Institute including priority studies for cancer control/prevention,\n molecular/precision medicine, and imaging.\n2. To be strong contributors to Cancer Care Delivery Research (CCDR).\n3. To maximize the sharing of NCI scientific findings into clinical care through education\n and engagement of clinical partners and health systems.\n4. To address health care disparities experienced by underserved (e.g., rural,\n adolescent/young adult, elderly, minority and underinsured) populations within our\ncommunities.\n5. To optimize our contribution to the national scientific research agenda by expanding our\n leadership and committee participation in the National Clinical Trials Network\n (NCTN)/NCORP research bases and the mentoring of young investigators.",
+      "project_title": "Cancer Research Consortium of West Michigan (CRCWM)"
+    },
+    {
+      "appl_id": 10460164,
+      "project_num": "5UG1CA189860-09",
+      "organization": {
+        "org_name": "COREWELL HEALTH",
+        "city": null,
+        "country": null,
+        "org_city": "Grand Rapids",
+        "org_country": "UNITED STATES",
+        "org_state": "MI",
+        "org_state_name": null,
+        "dept_type": null,
+        "fips_country_code": null,
+        "org_duns": [
+          "047593173"
+        ],
+        "org_ueis": [
+          "LDABZVFUKNS3"
+        ],
+        "primary_duns": "047593173",
+        "primary_uei": "LDABZVFUKNS3",
+        "org_fips": "US",
+        "org_ipf_code": "4078901",
+        "org_zipcode": "49503",
+        "external_org_id": 4078901
+      },
+      "award_amount": 2190347,
+      "principal_investigators": [
+        {
+          "profile_id": 7038930,
+          "first_name": "KATHLEEN",
+          "middle_name": "YOST",
+          "last_name": "BUTLER",
+          "is_contact_pi": true,
+          "full_name": "KATHLEEN YOST BUTLER",
+          "title": ""
+        }
+      ],
+      "project_start_date": "2014-08-08T00:00:00",
+      "project_end_date": "2025-07-31T00:00:00",
+      "award_notice_date": "2022-08-01T00:00:00",
+      "abstract_text": "PROJECT SUMMARY\nThe Cancer Research Consortium of West Michigan (CRCWM) is an NCI Community Oncology\nResearch Program (NCORP) comprised of nine major health systems, a renowned basic\nscience institute, and a medical school. CRCWM covers the west half of Michigan and cares for\nalmost 14,000 newly diagnosed cancer patients and their families per year. Formed from two\nexperienced Community Clinical Oncology Programs (CCOPs) in 2014, CRCWM has a 40+\nyear history of bringing clinical trials to the community and is a major accruer to NCI studies.\nWith over 100 oncology physician investigators and a well-established administrative staff,\nCRCWM has the ability to enroll patients with cancer diagnoses across the continuum and to\naddress NCI goals of expanding participation of racial/ethnic minorities and underserved in\nclinical trials. This application reiterates our commitment to high-quality research and ongoing\nalignment with NCI initiatives.\nWe are well-positioned to achieve our specific aims for the next NCORP grant cycle which are:\n1. To maximize accrual of patients to cancer clinical trials sponsored by the National\n Cancer Institute including priority studies for cancer control/prevention,\n molecular/precision medicine, and imaging.\n2. To be strong contributors to Cancer Care Delivery Research (CCDR).\n3. To maximize the sharing of NCI scientific findings into clinical care through education\n and engagement of clinical partners and health systems.\n4. To address health care disparities experienced by underserved (e.g., rural,\n adolescent/young adult, elderly, minority and underinsured) populations within our\ncommunities.\n5. To optimize our contribution to the national scientific research agenda by expanding our\n leadership and committee participation in the National Clinical Trials Network\n (NCTN)/NCORP research bases and the mentoring of young investigators.",
+      "project_title": "Cancer Research Consortium of West Michigan (CRCWM)"
+    },
+    {
+      "appl_id": 10226962,
+      "project_num": "5UG1CA189860-08",
+      "organization": {
+        "org_name": "COREWELL HEALTH",
+        "city": null,
+        "country": null,
+        "org_city": "Grand Rapids",
+        "org_country": "UNITED STATES",
+        "org_state": "MI",
+        "org_state_name": null,
+        "dept_type": null,
+        "fips_country_code": null,
+        "org_duns": [
+          "047593173"
+        ],
+        "org_ueis": [
+          "LDABZVFUKNS3"
+        ],
+        "primary_duns": "047593173",
+        "primary_uei": "LDABZVFUKNS3",
+        "org_fips": "US",
+        "org_ipf_code": "4078901",
+        "org_zipcode": "49503",
+        "external_org_id": 4078901
+      },
+      "award_amount": 2184338,
+      "principal_investigators": [
+        {
+          "profile_id": 7038930,
+          "first_name": "KATHLEEN",
+          "middle_name": "YOST",
+          "last_name": "BUTLER",
+          "is_contact_pi": true,
+          "full_name": "KATHLEEN YOST BUTLER",
+          "title": ""
+        }
+      ],
+      "project_start_date": "2014-08-08T00:00:00",
+      "project_end_date": "2025-07-31T00:00:00",
+      "award_notice_date": "2021-07-30T00:00:00",
+      "abstract_text": "PROJECT SUMMARY\nThe Cancer Research Consortium of West Michigan (CRCWM) is an NCI Community Oncology\nResearch Program (NCORP) comprised of nine major health systems, a renowned basic\nscience institute, and a medical school. CRCWM covers the west half of Michigan and cares for\nalmost 14,000 newly diagnosed cancer patients and their families per year. Formed from two\nexperienced Community Clinical Oncology Programs (CCOPs) in 2014, CRCWM has a 40+\nyear history of bringing clinical trials to the community and is a major accruer to NCI studies.\nWith over 100 oncology physician investigators and a well-established administrative staff,\nCRCWM has the ability to enroll patients with cancer diagnoses across the continuum and to\naddress NCI goals of expanding participation of racial/ethnic minorities and underserved in\nclinical trials. This application reiterates our commitment to high-quality research and ongoing\nalignment with NCI initiatives.\nWe are well-positioned to achieve our specific aims for the next NCORP grant cycle which are:\n1. To maximize accrual of patients to cancer clinical trials sponsored by the National\n Cancer Institute including priority studies for cancer control/prevention,\n molecular/precision medicine, and imaging.\n2. To be strong contributors to Cancer Care Delivery Research (CCDR).\n3. To maximize the sharing of NCI scientific findings into clinical care through education\n and engagement of clinical partners and health systems.\n4. To address health care disparities experienced by underserved (e.g., rural,\n adolescent/young adult, elderly, minority and underinsured) populations within our\ncommunities.\n5. To optimize our contribution to the national scientific research agenda by expanding our\n leadership and committee participation in the National Clinical Trials Network\n (NCTN)/NCORP research bases and the mentoring of young investigators.",
+      "project_title": "Cancer Research Consortium of West Michigan (CRCWM)"
+    }
+  ],
+  "Spectrum Health": [],
+  "Beaumont Health": []
+}
