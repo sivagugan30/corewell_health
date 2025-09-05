@@ -18,11 +18,18 @@ end_date = today.strftime("%m/%d/%Y")
 
 # All valid printable fields you care about (from docs)
 PRINT_FIELDS = ",".join([
-    "id","agency","awardeeName","awardeeCity","awardeeStateCode",
-    "piFirstName","piLastName","title","date","startDate","expDate",
-    "fundsObligatedAmt","abstractText"
+    "id","agency","awardeeCity","awardeeCountryCode","awardeeDistrictCode",
+    "awardeeName","awardeeStateCode","awardeeZipCode","awdSpAttnCode",
+    "awdSpAttnDesc","cfdaNumber","coPDPI","date","startDate","expDate",
+    "estimatedTotalAmt","fundsObligatedAmt","ueiNumber","fundProgramName",
+    "parentUeiNumber","pdPIName","perfCity","perfCountryCode",
+    "perfDistrictCode","perfLocation","perfStateCode","perfZipCode",
+    "poName","primaryProgram","transType","title","awardee",
+    "poPhone","poEmail","awardeeAddress","perfAddress",
+    "publicationResearch","publicationConference","fundAgencyCode",
+    "awardAgencyCode","projectOutComesReport","abstractText",
+    "piFirstName","piMiddeInitial","piLastName","piEmail"
 ])
-
 def fetch_page(params):
     """Call API once; return (awards, service_notifications)."""
     r = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=30)
